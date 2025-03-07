@@ -53,11 +53,10 @@ El proyecto se ejecuta utilizando la metodología CRISP-DM (Cross-Industry Stand
 ---
 
 🚀 **Colaboradores**
-
-- Juan Pablo Arias
-- Paula Andrea Romero
-- Kevin
-- Juan José
+- **[Juan Pablo Arias](https://github.com/JuanParias29/Perfil_GitHub)**
+- **[Paula Andrea Romero](https://github.com/Andyy870)**  
+- **[Kevin](https://github.com/usuario)** 
+- **[Juan José](https://github.com/usuario)**
 
 ---
 
