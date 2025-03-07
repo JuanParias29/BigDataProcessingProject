@@ -2,7 +2,7 @@
 
 Este repositorio contiene el desarrollo de un proyecto analítico basado en la metodología CRISP-DM para el procesamiento de datos de gran escala, orientado a resolver preguntas de negocio en entornos educativos utilizando herramientas de Big Data.
 
-📌 **Objetivos del Proyecto**
+## 📌 **Objetivos del Proyecto**
 
 - Comprender la importancia de las herramientas de Big Data en entornos empresariales y su capacidad para resolver problemas de negocio.
 - Aplicar la metodología CRISP-DM para la elaboración de proyectos analíticos y generar hallazgos de valor en el análisis de datos.
@@ -11,7 +11,7 @@ Este repositorio contiene el desarrollo de un proyecto analítico basado en la m
 
 ---
 
-📌 **Metodología CRISP-DM**
+## 📌 **Metodología CRISP-DM**
 
 El proyecto se ejecuta utilizando la metodología CRISP-DM (Cross-Industry Standard Process for Data Mining) para realizar un análisis completo de los datos y responder a las preguntas de negocio planteadas.
 
@@ -30,7 +30,7 @@ El proyecto se ejecuta utilizando la metodología CRISP-DM (Cross-Industry Stand
 
 ---
 
-🚀 **Tecnologías y Herramientas Utilizadas**
+## 🚀 **Tecnologías y Herramientas Utilizadas**
 
 - **Databricks**: Plataforma unificada para el análisis y procesamiento de datos.
 - **Apache Spark**: Motor de procesamiento distribuido utilizado para trabajar con grandes volúmenes de datos.
@@ -39,7 +39,7 @@ El proyecto se ejecuta utilizando la metodología CRISP-DM (Cross-Industry Stand
 
 ---
 
-📊 **Estructura del Proyecto**
+## 📊 **Estructura del Proyecto**
 
 1. **Entrega 1: Entendimiento del Negocio y de los Datos**
    - Análisis de los datos del servicio de internet por municipio, pobreza, ICFES y niveles de educación.
@@ -52,12 +52,16 @@ El proyecto se ejecuta utilizando la metodología CRISP-DM (Cross-Industry Stand
 
 ---
 
-🚀 **Colaboradores**
+## 🥷 **Colaboradores**
 - **[Juan Pablo Arias](https://github.com/JuanParias29/Perfil_GitHub)**
 - **[Paula Andrea Romero](https://github.com/Andyy870)**  
 - **[Kevin](https://github.com/usuario)** 
 - **[Juan José](https://github.com/usuario)**
 
 ---
+## 📅**Curso**
+**Procesamiento de Datos a Gran Escala**  
+📍 *Pontificia Universidad Javeriana*  
+👨‍🏫 *Docente:* [John Corredor, PhD](https://github.com/corredor-john)
 
 ¡Bienvenido a este desafío en el mundo del procesamiento de datos a gran escala! 🚀
